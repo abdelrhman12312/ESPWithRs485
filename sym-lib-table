@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name "iot-master-rescue")(type "Legacy")(uri "${KIPRJMOD}/iot master-rescue.lib")(options "")(descr ""))
+)

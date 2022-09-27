@@ -1,0 +1,52 @@
+Source:	C:\Users\AAA\Desktop\iot master\iot master\iot master.sch
+Date:	7/23/2022 12:47:30 PM
+Tool:	Eeschema (5.1.2)-2
+Component Count:	47
+Ref	Value	Part	Footprint	Description	Vendor
+C1	10uf	Device:C_Small	Capacitor_SMD:C_0805_2012Metric_Pad1.15x1.40mm_HandSolder	Unpolarized capacitor, small symbol	
+C2	0.1uf	Device:C_Small	Capacitor_SMD:C_0805_2012Metric_Pad1.15x1.40mm_HandSolder	Unpolarized capacitor, small symbol	
+C3	1uf	Device:C_Small		Unpolarized capacitor, small symbol	
+C4	1uf	Device:C_Small		Unpolarized capacitor, small symbol	
+D1	LED_Small	Device:LED_Small	LED_SMD:LED_1206_3216Metric_Pad1.42x1.75mm_HandSolder	Light emitting diode, small symbol	
+D2	LED	Device:LED	LED_SMD:LED_1206_3216Metric_Pad1.42x1.75mm_HandSolder	Light emitting diode	
+D3	LED	Device:LED	LED_SMD:LED_1206_3216Metric_Pad1.42x1.75mm_HandSolder	Light emitting diode	
+D4	LED	Device:LED	LED_SMD:LED_1206_3216Metric_Pad1.42x1.75mm_HandSolder	Light emitting diode	
+J1	Screw_Terminal_01x03	Connector:Screw_Terminal_01x03	TerminalBlock:TerminalBlock_bornier-3_P5.08mm	Generic screw terminal, single row, 01x03, script generated (kicad-library-utils/schlib/autogen/connector/)	
+J2	Screw_Terminal_01x02	Connector:Screw_Terminal_01x02	TerminalBlock:TerminalBlock_bornier-2_P5.08mm	Generic screw terminal, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)	
+J3	Screw_Terminal_01x03	Connector:Screw_Terminal_01x03	TerminalBlock:TerminalBlock_bornier-3_P5.08mm	Generic screw terminal, single row, 01x03, script generated (kicad-library-utils/schlib/autogen/connector/)	
+J4	Screw_Terminal_01x03	Connector:Screw_Terminal_01x03	TerminalBlock:TerminalBlock_bornier-3_P5.08mm	Generic screw terminal, single row, 01x03, script generated (kicad-library-utils/schlib/autogen/connector/)	
+J5	Screw_Terminal_01x03	Connector:Screw_Terminal_01x03	TerminalBlock:TerminalBlock_bornier-3_P5.08mm	Generic screw terminal, single row, 01x03, script generated (kicad-library-utils/schlib/autogen/connector/)	
+J6	Screw_Terminal_01x03	Connector:Screw_Terminal_01x03	TerminalBlock:TerminalBlock_bornier-3_P5.08mm	Generic screw terminal, single row, 01x03, script generated (kicad-library-utils/schlib/autogen/connector/)	
+K1	SRD-05VDC-SL-C	SRD-05VDC-SL-C:SRD-05VDC-SL-C	SRD-05VDC-SL-C:RELAY_SRD-05VDC-SL-C		
+K2	SRD-05VDC-SL-C	SRD-05VDC-SL-C:SRD-05VDC-SL-C	SRD-05VDC-SL-C:RELAY_SRD-05VDC-SL-C		
+K3	SRD-05VDC-SL-C	SRD-05VDC-SL-C:SRD-05VDC-SL-C	SRD-05VDC-SL-C:RELAY_SRD-05VDC-SL-C		
+K4	SRD-05VDC-SL-C	SRD-05VDC-SL-C:SRD-05VDC-SL-C	SRD-05VDC-SL-C:RELAY_SRD-05VDC-SL-C		
+PS1	HLK-PM01	Converter_ACDC:HLK-PM01	Converter_ACDC:Converter_ACDC_HiLink_HLK-PMxx	Compact AC/DC board mount power module 3W 5V	
+Q1	BSS138	Transistor_FET:BSS138	Package_TO_SOT_SMD:SOT-23	50V Vds, 0.22A Id, N-Channel MOSFET, SOT-23	
+Q2	BSS138	Transistor_FET:BSS138	Package_TO_SOT_SMD:SOT-23	50V Vds, 0.22A Id, N-Channel MOSFET, SOT-23	
+Q3	2N2219	Transistor_BJT:2N2219	Package_TO_SOT_THT:TO-39-3	800mA Ic, 50V Vce, NPN Transistor, TO-39	
+R1	10k	Device:R_Small		Resistor, small symbol	
+R2	10k	Device:R_Small		Resistor, small symbol	
+R3	10k	Device:R_Small		Resistor, small symbol	
+R4	10k	Device:R_Small		Resistor, small symbol	
+R5	1K	Device:R_Small	Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder	Resistor, small symbol	
+R6	10K	Device:R_Small	Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder	Resistor, small symbol	
+R7	10K	Device:R_Small	Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder	Resistor, small symbol	
+R8	10K	Device:R_Small	Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder	Resistor, small symbol	
+R9	10K	Device:R_Small	Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder	Resistor, small symbol	
+R10	10K	Device:R_Small	Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder	Resistor, small symbol	
+R11	1K	Device:R_Small	Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder	Resistor, small symbol	
+R12	20K	Device:R_Small	Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder	Resistor, small symbol	
+R13	20K	Device:R_Small	Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder	Resistor, small symbol	
+R14	120	Device:R_Small	Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder	Resistor, small symbol	
+R15	1k	Device:R_Small	Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder	Resistor, small symbol	
+R16	1k	Device:R_Small	Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder	Resistor, small symbol	
+R17	1k	Device:R_Small	Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder	Resistor, small symbol	
+R18	10K	Device:R_Small	Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder	Resistor, small symbol	
+R19	10K	Device:R_Small	Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder	Resistor, small symbol	
+R20	10K	Device:R_Small	Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder	Resistor, small symbol	
+R21	10K	Device:R_Small	Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder	Resistor, small symbol	
+U1	MAX485E	Interface_UART:MAX485E		Half duplex RS-485/RS-422, 2.5 Mbps, ±15kV electro-static discharge (ESD) protection, no slew-rate, no low-power shutdown, with receiver/driver enable, 32 receiver drive kapacitity, DIP-8 and SOIC-8	
+U2	AP2112K-3.3	Regulator_Linear:AP2112K-3.3	Package_TO_SOT_SMD:SOT-23-5	600mA low dropout linear regulator, with enable pin, 3.8V-6V input voltage range, 3.3V fixed positive output, SOT-23-5 package	
+U3	ULN2803A	Transistor_Array:ULN2803A		Darlington Transistor Arrays, SOIC18/DIP18	
+U4	ESP-12E	ESP8266:ESP-12E	ESP8266:ESP-12E	ESP8266 ESP-12E module, 22 pins, 2mm, PCB antenna	
